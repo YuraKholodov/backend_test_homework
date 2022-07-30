@@ -1,2 +1,5 @@
+from typing import _get_type_hints_obj_allowed_types
+
+
 print('Я домашка')
-123
+_get_type_hints_obj_allowed_types
